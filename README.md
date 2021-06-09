@@ -8,6 +8,12 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+This is created to study how I can work with GitHub
+
 ## How to contribute
 
+Please follow the course
+
 ## Deployment
+
+Fork in?
