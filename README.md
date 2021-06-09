@@ -21,3 +21,11 @@ Fork in?
 ## Local Repository
 
 This will be committed only locally for now
+
+## Staging Area
+
+Now this is an addition only done in the staging area. it is added, but not yet commited
+
+## Working Directory
+
+This addition is only in the working directory
