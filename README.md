@@ -17,3 +17,7 @@ Please follow the course
 ## Deployment
 
 Fork in?
+
+## Local Repository
+
+This will be committed only locally for now
